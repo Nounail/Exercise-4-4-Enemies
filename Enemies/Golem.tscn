@@ -9,7 +9,7 @@
 [sub_resource type="RectangleShape2D" id="53"]
 size = Vector2(150, 190)
 
-[sub_resource type="RectangleShape2D" id="54"]
+[sub_resource type="RectangleShape2D" id="55"]
 size = Vector2(150, 20)
 
 [node name="Golem" type="CharacterBody2D"]
